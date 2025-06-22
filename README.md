@@ -1,7 +1,7 @@
 
 # 👋 Olá! Eu sou o Fabricio Bezerra
 
-Bem-vindo ao meu perfil! Sou um entusiasta de tecnologia apaixonado por **desenvolvimento web**, **design de interfaces modernas** e tudo que envolve **inovação digital**.
+Bem-vindo ao meu perfil! Sou um entusiasta de tecnologia apaixonado por **desenvolvimento web**, **design de interfaces modernas** e tudo que envolve **inovação digital**. Sou um desenvolvedor front‑end em formação, apaixonado por transformar ideias em interfaces modernas e responsivas, com foco em HTML e CSS, JavaScript, dentre outras tecnologias.
 
 ---
 
@@ -24,25 +24,40 @@ Bem-vindo ao meu perfil! Sou um entusiasta de tecnologia apaixonado por **desenv
 
 ---
 
-## 📌 Projetos em destaque
+## 💼 Projetos em destaque
 
-- 🔐 [Tela de Login VOX](https://github.com/seu-usuario/projeto-login-vox) – Interface de login com tema tecnológico e responsivo
-- 🌈 Mais projetos em breve...
+### 1. ⭐ VOX Login  
+Tela de login pessoal, responsiva e com efeitos modernos de foco e preenchimento automático.  
+Demonstra sua identidade visual e domínio de layouts para autenticação.
+
+### 2. 📸 Clone da página de login do Instagram  
+Reproduz com fidelidade a interface do Instagram, com atenção a estrutura, responsividade e aparência realista.
+
+### 3. 🛍️ Página de Loja de Camisetas  
+Landing page para e-commerce com detalhes de produto, preços, tamanhos e botão de compra, responsiva para diferentes dispositivos.
+
+### 4. 💻 Projeto Web Plans / Pfeiffer Host  
+Landing pages para serviços de hospedagem, destacando planos, benefícios e design limpo e empresarial.
+
+### 5. 🧩 User Cards e CSS Cards  
+Componentes visuais (cards) com foto, nome e descrição, usando Flexbox, sombras e bordas para aprendizado de componentes reutilizáveis.
 
 ---
+
 
 ## 📫 Vamos nos conectar!
 
-- 📧 [fabricio@email.com](mailto:fabricio@email.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario) *(adicione seu link aqui)*
+- 📧 [fabriciofrontdev@gmail.com](mailto:fabriciofrontdev@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabriciobzrr)
 
 ---
 
-## ✨ Estatísticas (opcional)
+## 📊 Estatísticas de GitHub
 
-![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
+![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciobzrr&show_icons=true&theme=tokyonight)
 
 ---
 
 ⭐ **Obrigado por visitar!**  
-Se gostou de algum projeto, fique à vontade para dar uma estrela ⭐ ou contribuir!
+Se gostou de algum projeto, fique à vontade para dar uma estrela ⭐ ou contribuir! Sua ⭐ e feedback são muito bem-vindos!
+
