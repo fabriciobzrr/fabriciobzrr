@@ -1,26 +1,36 @@
 
 # 👋 Olá! Eu sou o Fabricio Bezerra
 
-Bem-vindo ao meu perfil! Sou um entusiasta de tecnologia apaixonado por **desenvolvimento web**, **design de interfaces modernas** e tudo que envolve **inovação digital**. Sou um desenvolvedor front‑end em formação, apaixonado por transformar ideias em interfaces modernas e responsivas, com foco em HTML e CSS, JavaScript, dentre outras tecnologias.
+Sou desenvolvedor em formação, apaixonado por tecnologia e pelo impacto que ela pode gerar no dia a dia das pessoas. Desde 2022 venho me dedicando ao estudo e prática de HTML, CSS, JavaScript, React e Node.js, explorando tanto front-end quanto back-end.
+Com formação em administração, aplico disciplina, organização e foco em resultados no meu processo de aprendizado e projetos. Meu objetivo é evoluir constantemente, construir interfaces modernas e acessíveis e transformar ideias em soluções digitais reais. 🚀
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudando e evoluindo como desenvolvedor front-end
-- 🧠 Interesse em **UX/UI**, animações com CSS e aplicações interativas
-- 🌎 Localização: Brasil
-- 🌐 Trabalhando em projetos com **HTML**, **CSS**, **JavaScript** e ferramentas visuais
+- 🎓 Em constante evolução como desenvolvedor front-end, expandindo também para o back-end com foco em me tornar fullstack
+
+- 🧠 Apaixonado por UX/UI, design de interfaces modernas, animações em CSS e experiências digitais interativas
+
+- 🌎 Localizado no Brasil
+
+- 🌐 Atualmente desenvolvendo projetos com HTML, CSS, JavaScript, React e explorando Node.js, Python, PHP e Java.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas  
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)  
 
 ---
 
