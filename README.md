@@ -62,9 +62,13 @@ Componentes visuais (cards) com foto, nome e descrição, usando Flexbox, sombra
 
 ---
 
-## 📊 Estatísticas de GitHub
+## 📊 Estatísticas do GitHub  
 
-![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciobzrr&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabriciobzrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciobzrr&layout=compact&langs_count=8&theme=tokyonight)  
+
+![Streak Stats](https://streak-stats.demolab.com/?user=fabriciobzrr&theme=tokyonight&hide_border=false)  
 
 ---
 
