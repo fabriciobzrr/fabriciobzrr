@@ -6,18 +6,6 @@ Com formação em administração, aplico disciplina, organização e foco em re
 
 ---
 
-## 🚀 Sobre mim
-
-- 🎓 Em constante evolução como desenvolvedor front-end, expandindo também para o back-end com foco em me tornar fullstack
-
-- 🧠 Apaixonado por UX/UI, design de interfaces modernas, animações em CSS e experiências digitais interativas
-
-- 🌎 Localizado no Brasil
-
-- 🌐 Atualmente desenvolvendo projetos com HTML, CSS, JavaScript, React e explorando Node.js, Python, PHP e Java.
-
----
-
 ## 🛠️ Tecnologias e Ferramentas  
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
@@ -31,29 +19,6 @@ Com formação em administração, aplico disciplina, organização e foco em re
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)  
-
----
-
-## 💼 Projetos em destaque
-
-### 1. ⭐ VOX Login  
-Tela de login pessoal, responsiva e com efeitos modernos de foco e preenchimento automático.  
-Demonstra sua identidade visual e domínio de layouts para autenticação.
-
-### 2. 📸 Clone da página de login do Instagram  
-Reproduz com fidelidade a interface do Instagram, com atenção a estrutura, responsividade e aparência realista.
-
-### 3. 🛍️ Página de Loja de Camisetas  
-Landing page para e-commerce com detalhes de produto, preços, tamanhos e botão de compra, responsiva para diferentes dispositivos.
-
-### 4. 💻 Projeto Web Plans / Pfeiffer Host  
-Landing pages para serviços de hospedagem, destacando planos, benefícios e design limpo e empresarial.
-
-### 5. 🧩 User Cards e CSS Cards  
-Componentes visuais (cards) com foto, nome e descrição, usando Flexbox, sombras e bordas para aprendizado de componentes reutilizáveis.
-
----
-
 
 ## 📫 Vamos nos conectar!
 
