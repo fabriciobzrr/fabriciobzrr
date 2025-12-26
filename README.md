@@ -1,42 +1,73 @@
+# 👋 Olá, eu sou o Fabricio Bezerra
 
-# 👋 Olá! Eu sou o Fabricio Bezerra
-
-Sou desenvolvedor em formação, apaixonado por tecnologia e pelo impacto que ela pode gerar no dia a dia das pessoas. Desde 2022 venho me dedicando ao estudo e prática de HTML, CSS, JavaScript, React e Node.js, explorando tanto front-end quanto back-end.
-Com formação em administração, aplico disciplina, organização e foco em resultados no meu processo de aprendizado e projetos. Meu objetivo é evoluir constantemente, construir interfaces modernas e acessíveis e transformar ideias em soluções digitais reais. 🚀
-
----
-
-## 🛠️ Tecnologias e Ferramentas  
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)  
-
-## 📫 Vamos nos conectar!
-
-- 📧 [fabriciofrontdev@gmail.com](mailto:fabriciofrontdev@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabriciobzrr)
+🎓 Estudante de **Engenharia de Software**  
+📊 Administrador com sólida experiência em **gestão administrativa e financeira**  
+💻 Desenvolvedor em formação com foco em **Backend** (e evolução planejada para **Fullstack**)
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 🧠 Sobre mim
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabriciobzrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  
+Sou Administrador por formação, com ampla vivência em **processos administrativos, financeiros e estratégicos**, atuando ao longo dos anos com análise de indicadores, relatórios gerenciais, planejamento, gestão de contratos e fornecedores, controle financeiro e suporte à tomada de decisão.
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciobzrr&layout=compact&langs_count=8&theme=tokyonight)  
+Atualmente, direciono minha carreira para o **desenvolvimento de software**, unindo **visão de negócio** e **engenharia de software** para criar soluções mais eficientes, escaláveis e alinhadas às necessidades reais das organizações.
 
-![Streak Stats](https://streak-stats.demolab.com/?user=fabriciobzrr&theme=tokyonight&hide_border=false)  
+Acredito que bons sistemas não nascem apenas de código bem escrito, mas de entendimento profundo de processos, regras de negócio e impacto operacional.
 
 ---
 
-⭐ **Obrigado por visitar!**  
-Se gostou de algum projeto, fique à vontade para dar uma estrela ⭐ ou contribuir! Sua ⭐ e feedback são muito bem-vindos!
+## 🚀 Objetivo Profissional
 
+Busco minha **primeira oportunidade de estágio em desenvolvimento de software**, onde possa:
+
+- Atuar em projetos reais  
+- Aprender boas práticas do mercado  
+- Evoluir tecnicamente de forma consistente  
+- Contribuir com proatividade, organização e visão analítica  
+
+Meu foco atual é **Backend**, com plano estruturado de evolução para **Fullstack**.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+**Atualmente estudando e praticando:**
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Node.js  
+- React  
+- TypeScript  
+- Git & GitHub  
+
+**Conceitos em desenvolvimento contínuo:**
+
+- Lógica de programação  
+- Estruturação de projetos  
+- Versionamento de código  
+- Boas práticas e organização de código  
+
+---
+
+## 📂 Projetos
+
+Este repositório reúne **projetos práticos**, exercícios e experimentos desenvolvidos durante meus estudos, com foco em:
+
+- Consolidação de fundamentos  
+- Aplicação prática do conteúdo aprendido  
+- Evolução progressiva da complexidade  
+- Desenvolvimento de raciocínio lógico e arquitetural  
+
+---
+
+## 🤝 Vamos nos conectar
+
+- 💼 LinkedIn: *(adicione aqui)*  
+- 📧 Email: *(opcional)*  
+
+Sempre aberto a aprendizado, colaboração e troca de experiências.
+
+---
+
+> “Código resolve problemas. Entendimento resolve sistemas.”
