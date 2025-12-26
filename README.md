@@ -63,8 +63,8 @@ Este repositório reúne **projetos práticos**, exercícios e experimentos dese
 
 ## 🤝 Vamos nos conectar
 
-- 💼 LinkedIn: *(adicione aqui)*  
-- 📧 Email: *(opcional)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/fabriciobzrr/
+- 📧 Email: fabriciofrontdev@gmail.com
 
 Sempre aberto a aprendizado, colaboração e troca de experiências.
 
