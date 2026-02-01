@@ -35,10 +35,9 @@ Meu foco atual é **Backend**, com plano estruturado de evolução para **Fullst
 
 - HTML5  
 - CSS3  
-- JavaScript (ES6+)  
-- Node.js  
+- JavaScript (ES6+)
+- Java
 - React  
-- TypeScript  
 - Git & GitHub  
 
 **Conceitos em desenvolvimento contínuo:**
