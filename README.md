@@ -68,7 +68,25 @@ Busco minha **primeira oportunidade de estágio em desenvolvimento de software**
 
 ## 📈 Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://card.shiina.xyz/card/fabriciobzrr)](https://github.com/fabriciobzrr)
+## 📈 Estatísticas do GitHub
+
+### Geral
+<picture>
+  <source srcset="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_general.svg">
+</picture>
+
+### Linguagens mais usadas
+<picture>
+  <source srcset="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_langs.svg">
+</picture>
+
+### Histórico de Commits
+<picture>
+  <source srcset="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_commits.svg">
+</picture>
 
 ---
 
