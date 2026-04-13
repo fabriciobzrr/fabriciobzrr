@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o Fabricio Bezerra
+# 👋 Olá, eu sou o Fabrício Bezerra
 
 🎓 Estudante de **Engenharia de Software**  
 📊 Administrador com sólida experiência em **gestão administrativa e financeira**  
-💻 Desenvolvedor em formação com foco em **Backend** (e evolução planejada para **Fullstack**)
+☕ Desenvolvedor Backend em formação | Java | Spring Boot
 
 ---
 
@@ -20,53 +20,74 @@ Acredito que bons sistemas não nascem apenas de código bem escrito, mas de ent
 
 Busco minha **primeira oportunidade de estágio em desenvolvimento de software**, onde possa:
 
-- Atuar em projetos reais  
-- Aprender boas práticas do mercado  
-- Evoluir tecnicamente de forma consistente  
-- Contribuir com proatividade, organização e visão analítica  
+- ✅ Atuar em projetos reais  
+- ✅ Aprender boas práticas do mercado  
+- ✅ Evoluir tecnicamente de forma consistente  
+- ✅ Contribuir com proatividade, organização e visão analítica  
 
-Meu foco atual é **Backend**, com plano estruturado de evolução para **Fullstack**.
+**Foco atual:** Backend com Java | **Próximo passo:** Spring Boot | **Evolução:** Fullstack
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-**Atualmente estudando e praticando:**
+### Já estudei / Tenho conhecimento
 
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)
-- Java
-- React  
-- Git & GitHub  
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React, TypeScript |
+| **Backend** | Java (POO, Streams, Exceções, Arquivos, Collections) |
+| **Versionamento** | Git, GitHub |
+| **Ferramentas** | IntelliJ IDEA, VS Code, Eclipse |
 
-**Conceitos em desenvolvimento contínuo:**
+### Estudando atualmente
 
-- Lógica de programação  
-- Estruturação de projetos  
-- Versionamento de código  
-- Boas práticas e organização de código  
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Backend** | Spring Boot, JPA, Hibernate |
+| **Banco de Dados** | MySQL, PostgreSQL, SQL |
+| **Algoritmos** | Estruturas de Dados (livro + curso) |
+
+### Próximos passos
+
+- 🔜 JDBC
+- 🔜 API REST
+- 🔜 Deploy em nuvem (Railway/Render)
 
 ---
 
 ## 📂 Projetos
 
-Este repositório reúne **projetos práticos**, exercícios e experimentos desenvolvidos durante meus estudos, com foco em:
+| Projeto | Descrição | Tecnologias | Status |
+|---------|-----------|-------------|--------|
+| [Fluxo de Caixa](https://github.com/fabriciobzrr/Projeto01-Fluxo-Caixa) | Sistema de gestão financeira pessoal com validação em camadas | Java, POO, Streams, Exceções | ✅ Concluído |
+| Controle de Estoque | Sistema CRUD para gerenciamento de produtos | Java, ArrayList, Streams | 🚧 Em desenvolvimento |
+| Gestão Financeira | Sistema completo com persistência em arquivo | Java, Enums, Arquivos | 📅 Planejado |
 
-- Consolidação de fundamentos  
-- Aplicação prática do conteúdo aprendido  
-- Evolução progressiva da complexidade  
-- Desenvolvimento de raciocínio lógico e arquitetural  
+---
+
+## 📈 Estatísticas do GitHub
+
+![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciobzrr&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciobzrr&layout=compact&theme=dark)
 
 ---
 
 ## 🤝 Vamos nos conectar
 
-- 💼 **LinkedIn:** [linkedin.com/in/fabriciobzrr](https://www.linkedin.com/in/fabriciobzrr/)
-- 📧 **Email:** [fabriciofrontdev@gmail.com](mailto:fabriciofrontdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciobzrr/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabriciofrontdev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabriciobzrr)
 
 Sempre aberto a aprendizado, colaboração e troca de experiências.
 
 ---
 
-> “Código resolve problemas. Entendimento resolve sistemas.”
+## 💡 Frase
+
+> *"Código resolve problemas. Entendimento resolve sistemas."*
+
+---
+
+⭐ *Este README é vivo e será atualizado conforme minha evolução nos estudos.*
