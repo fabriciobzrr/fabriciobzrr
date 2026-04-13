@@ -68,9 +68,7 @@ Busco minha **primeira oportunidade de estágio em desenvolvimento de software**
 
 ## 📈 Estatísticas do GitHub
 
-![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciobzrr&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciobzrr&layout=compact&theme=dark)
+[![Estatísticas do GitHub](https://card.shiina.xyz/card/fabriciobzrr)](https://github.com/fabriciobzrr)
 
 ---
 
