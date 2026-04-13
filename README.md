@@ -74,21 +74,23 @@ Busco minha **primeira oportunidade de estágio em desenvolvimento de software**
       <strong>📊 Estatísticas Gerais</strong><br>
       <picture>
         <source srcset="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-        <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_general.svg" width="300">
+        <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_general.svg" width="400">
       </picture>
     </td>
     <td align="center">
-      <strong>📚 Linguagens</strong><br>
+      <strong>📚 Linguagens mais usadas</strong><br>
       <picture>
         <source srcset="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-        <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_langs.svg" width="300">
+        <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_langs.svg" width="400">
       </picture>
     </td>
-    <td align="center">
-      <strong>📅 Commits</strong><br>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>📅 Histórico de Commits</strong><br>
       <picture>
         <source srcset="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-        <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_commits.svg" width="300">
+        <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_commits.svg" width="800">
       </picture>
     </td>
   </tr>
