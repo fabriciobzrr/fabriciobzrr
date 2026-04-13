@@ -68,25 +68,33 @@ Busco minha **primeira oportunidade de estágio em desenvolvimento de software**
 
 ## 📈 Estatísticas do GitHub
 
-## 📈 Estatísticas do GitHub
-
-### Geral
-<picture>
-  <source srcset="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_general.svg">
-</picture>
-
-### Linguagens mais usadas
-<picture>
-  <source srcset="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_langs.svg">
-</picture>
-
-### Histórico de Commits
-<picture>
-  <source srcset="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_commits.svg">
-</picture>
+<table>
+  <tr>
+    <td align="center">
+      <strong>📊 Estatísticas Gerais</strong><br>
+      <picture>
+        <source srcset="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+        <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_general.svg" width="400">
+      </picture>
+    </td>
+    <td align="center">
+      <strong>📚 Linguagens mais usadas</strong><br>
+      <picture>
+        <source srcset="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+        <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_langs.svg" width="400">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>📅 Histórico de Commits</strong><br>
+      <picture>
+        <source srcset="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+        <img src="https://raw.githubusercontent.com/fabriciobzrr/github-stats/main/output/stats_commits.svg" width="800">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
