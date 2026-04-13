@@ -61,7 +61,7 @@ Busco minha **primeira oportunidade de estágio em desenvolvimento de software**
 | Projeto | Descrição | Tecnologias | Status |
 |---------|-----------|-------------|--------|
 | [Fluxo de Caixa](https://github.com/fabriciobzrr/Projeto01-Fluxo-Caixa) | Sistema de gestão financeira pessoal com validação em camadas | Java, POO, Streams, Exceções | ✅ Concluído |
-| Controle de Estoque | Sistema CRUD para gerenciamento de produtos | Java, ArrayList, Streams | 🚧 Em desenvolvimento |
+| [Controle de Estoque](https://github.com/fabriciobzrr/projeto_controle_de_estoque) | Sistema CRUD para gerenciamento de produtos | Java, ArrayList, Streams | ✅ Concluído |
 | Gestão Financeira | Sistema completo com persistência em arquivo | Java, Enums, Arquivos | 📅 Planejado |
 
 ---
