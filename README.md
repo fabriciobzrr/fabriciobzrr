@@ -4,8 +4,6 @@
 📊 Administrador com sólida experiência em **gestão administrativa e financeira**  
 ☕ Desenvolvedor Backend em formação | Java | Spring Boot
 
----
-
 ## 🧠 Sobre mim
 
 Sou Administrador por formação, com ampla vivência em **processos administrativos, financeiros e estratégicos**, atuando ao longo dos anos com análise de indicadores, relatórios gerenciais, planejamento, gestão de contratos e fornecedores, controle financeiro e suporte à tomada de decisão.
