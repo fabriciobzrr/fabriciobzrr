@@ -3,6 +3,7 @@
 🎓 Estudante de **Engenharia de Software**  
 📊 Administrador com sólida experiência em **gestão administrativa e financeira**  
 ☕ Desenvolvedor Backend em formação | Java | Spring Boot
+---
 
 ## 🧠 Sobre mim
 
@@ -11,7 +12,6 @@ Sou Administrador por formação, com ampla vivência em **processos administrat
 Atualmente, direciono minha carreira para o **desenvolvimento de software**, unindo **visão de negócio** e **engenharia de software** para criar soluções mais eficientes, escaláveis e alinhadas às necessidades reais das organizações.
 
 Acredito que bons sistemas não nascem apenas de código bem escrito, mas de entendimento profundo de processos, regras de negócio e impacto operacional.
-
 ---
 
 ## 🚀 Objetivo Profissional
@@ -24,7 +24,6 @@ Busco minha **primeira oportunidade de estágio em desenvolvimento de software**
 - ✅ Contribuir com proatividade, organização e visão analítica  
 
 **Foco atual:** Backend com Java | **Próximo passo:** Spring Boot | **Evolução:** Fullstack
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -51,7 +50,6 @@ Busco minha **primeira oportunidade de estágio em desenvolvimento de software**
 - 🔜 JDBC
 - 🔜 API REST
 - 🔜 Deploy em nuvem (Railway/Render)
-
 ---
 
 ## 📂 Projetos
@@ -61,7 +59,6 @@ Busco minha **primeira oportunidade de estágio em desenvolvimento de software**
 | [Fluxo de Caixa](https://github.com/fabriciobzrr/Projeto01-Fluxo-Caixa) | Sistema de gestão financeira pessoal com validação em camadas | Java, POO, Streams, Exceções | ✅ Concluído |
 | [Controle de Estoque](https://github.com/fabriciobzrr/projeto_controle_de_estoque) | Sistema CRUD para gerenciamento de produtos | Java, ArrayList, Streams | ✅ Concluído |
 | Gestão Financeira | Sistema completo com persistência em arquivo | Java, Enums, Arquivos | 📅 Planejado |
-
 ---
 
 ## 📈 Estatísticas do GitHub
@@ -93,7 +90,6 @@ Busco minha **primeira oportunidade de estágio em desenvolvimento de software**
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🤝 Vamos nos conectar
@@ -103,7 +99,6 @@ Busco minha **primeira oportunidade de estágio em desenvolvimento de software**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabriciobzrr)
 
 Sempre aberto a aprendizado, colaboração e troca de experiências.
-
 ---
 
 ## 💡 Frase
